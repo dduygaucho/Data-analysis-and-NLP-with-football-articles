@@ -2,8 +2,11 @@
 
 The repository contains the following files:
 . main.py: Contains code verifying answers.
+
 . assignment1.py: Contains 9 functions to complete 9  assigned tasks
+
 . data/data.json: Details of recent soccer matches in the English Premier League.
+
 . data/football: 265  news articles about soccer matches in the English Premier League.
 
 This project aims at performing data aggregation tasks, analyzing the distribution of values for total goals (Task 4), number of articles each club is mentioned (Task 5), calculating the similarity score for each pair of clubs (Task 6) and exploring the relationship between club’s performance and its media coverage based on data.json and 265 text files about soccer matches in English Premier League.
